@@ -17,7 +17,6 @@ Simulasi lapisan **data storage** pada arsitektur monolith sistem rekomendasi (T
 - [Monitoring](#monitoring)
 - [Akses Redis Cluster](#akses-redis-cluster)
 - [Akses HDFS](#akses-hdfs)
-- [Troubleshooting](#troubleshooting)
 - [Struktur Project](#struktur-project)
 
 ---

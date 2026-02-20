@@ -1,4 +1,4 @@
-# Data Storage Apps — Simulasi Penyimpanan Data Monolith (TikTok-style)
+# Data Storage Apps — Simulasi Penyimpanan Data Monolith (TikTok)
 
 Simulasi lapisan **data storage** pada arsitektur monolith sistem rekomendasi (TikTok): **in-memory cache** dengan Redis Cluster dan **on-disk KV store** dengan HDFS. Data yang tidak muat di Redis (karena limit memori kecil) secara otomatis di-overflow ke HDFS agar sistem tetap berjalan optimal.
 
